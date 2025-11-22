@@ -1,10 +1,6 @@
 <!-- ============================
      🔥 NEON PYTHON DSA BANNER
      ============================ -->
-<p align="center">
-  <img src="https://i.imgur.com/6YVw3Fq.gif" width="80%" alt="🐍 💡 Python Data Structures & Algorithms">
-</p>
-
 <h1 align="center">⚡ PYTHON DATA STRUCTURES & ALGORITHMS ⚡</h1>
 <p align="center">✨ A Collection of Beginner → Intermediate Python Programs — Neon-styled for your GitHub portfolio ✨</p>
 
@@ -12,9 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/DSA-Algorithms-00ffff?style=for-the-badge" alt="DSA">
-  <img src="https://img.shields.io/badge/Neon-Theme-ff00ff?style=for-the-badge" alt="Neon">
-  <img src="https://img.shields.io/badge/CLI-Friendly-Ready-informational?style=for-the-badge" alt="CLI">
+  <img src="https://img.shields.io/badge/Data Structures And -Algorithms-00ffff?style=for-the-badge" alt="DSA">
 </p>
 
 ---
