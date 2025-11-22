@@ -14,7 +14,7 @@
 ---
 
 <div align="center" style="border: 2px solid #00f7ff; border-radius:12px; padding:12px; background: linear-gradient(180deg, rgba(0,0,0,0.45), rgba(0,0,0,0.12));">
-  <h2 style="color:#bffcff; margin:6px 0;">🌈 Program List (Neon Styled)</h2>
+  <h2 style="color:#bffcff; margin:6px 0;">🌈 Program List </h2>
 
   ### 🔵 Graph Programs
   - 🌐 **BFS Traversal**  
