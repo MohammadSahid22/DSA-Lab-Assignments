@@ -2,7 +2,7 @@
      🔥 NEON PYTHON DSA BANNER
      ============================ -->
 <h1 align="center">⚡ PYTHON DATA STRUCTURES & ALGORITHMS ⚡</h1>
-<p align="center">✨ A Collection of Beginner → Intermediate Python Programs — Neon-styled for your GitHub portfolio ✨</p>
+<p align="center">✨ A Collection of Beginner → Intermediate Python Programs✨</p>
 
 ---
 
